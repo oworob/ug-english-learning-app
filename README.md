@@ -1,4 +1,4 @@
-# React English Learning App
+# VocaPlace
 
 This project is a full stack app inspired by apps like [Duolingo](https://www.duolingo.com/) and [Memrise](https://www.memrise.com/). It was made as a University team project in 2024.
 
